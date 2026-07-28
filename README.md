@@ -38,7 +38,7 @@ The button state is recalculated on every price check according to the configure
 
 ## 🎬 Demo
 
-![Demo](assets/demo.gif)
+![Demo](assets/demo.png)
 
 ---
 

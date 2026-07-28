@@ -36,7 +36,7 @@
 
 ## 🎬 Demo
 
-![Demo](assets/demo.gif)
+![Demo](assets/demo.png)
 
 ---
 
