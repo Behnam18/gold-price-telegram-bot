@@ -34,12 +34,6 @@
 
 ---
 
-## 🎬 Demo
-
-![Demo](assets/demo.png)
-
----
-
 ## 📁 ساختار پروژه
 
 ```text
