@@ -47,7 +47,7 @@ The button state is recalculated on every price check according to the configure
 ```text
 .
 ├── assets/
-│   └── demo.gif
+│   └── demo.png
 ├── keyboards/
 │   └── gold_keyboard.py
 ├── services/

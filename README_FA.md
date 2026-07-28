@@ -45,7 +45,7 @@
 ```text
 .
 ├── assets/
-│   └── demo.gif
+│   └── demo.png
 ├── keyboards/
 │   └── gold_keyboard.py
 ├── services/
