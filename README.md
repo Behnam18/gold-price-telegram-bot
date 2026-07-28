@@ -36,14 +36,6 @@ The button state is recalculated on every price check according to the configure
 
 ---
 
-## 🎬 Demo Screenshot
-
-<p align="center">
-  <img src="assets/demo.png" width="220">
-</p>
-
----
-
 ## Project Structure
 
 ```text
@@ -174,3 +166,11 @@ python main.py
 This repository is provided for educational purposes.
 
 The original website scraping implementation has been removed to respect the client's copyright and intellectual property.
+
+---
+
+## 🎬 Demo Screenshot
+
+<p align="center">
+  <img src="assets/demo.png" width="220">
+</p>
