@@ -36,9 +36,11 @@ The button state is recalculated on every price check according to the configure
 
 ---
 
-## 🎬 Demo
+## 🎬 Demo Screenshot
 
-![Demo](assets/demo.png)
+<p align="center">
+  <img src="assets/demo.png" width="220">
+</p>
 
 ---
 
